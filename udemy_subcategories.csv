@@ -1,0 +1,132 @@
+Main_Category_ID,Subcategory_ID,Main_Title,Sub_Title,SUB_URL,Main_URL,Final_URL
+288,8,Development,Web Development,/courses/development/web-development/,https://www.udemy.com,https://www.udemy.com/courses/development/web-development/
+288,558,Development,Data Science,/courses/development/data-science/,https://www.udemy.com,https://www.udemy.com/courses/development/data-science/
+288,10,Development,Mobile Development,/courses/development/mobile-apps/,https://www.udemy.com,https://www.udemy.com/courses/development/mobile-apps/
+288,12,Development,Programming Languages,/courses/development/programming-languages/,https://www.udemy.com,https://www.udemy.com/courses/development/programming-languages/
+288,14,Development,Game Development,/courses/development/game-development/,https://www.udemy.com,https://www.udemy.com/courses/development/game-development/
+288,16,Development,Database Design & Development,/courses/development/databases/,https://www.udemy.com,https://www.udemy.com/courses/development/databases/
+288,18,Development,Software Testing,/courses/development/software-testing/,https://www.udemy.com,https://www.udemy.com/courses/development/software-testing/
+288,20,Development,Software Engineering,/courses/development/software-engineering/,https://www.udemy.com,https://www.udemy.com/courses/development/software-engineering/
+288,362,Development,Software Development Tools,/courses/development/development-tools/,https://www.udemy.com,https://www.udemy.com/courses/development/development-tools/
+288,575,Development,No-Code Development,/courses/development/no-code-development/,https://www.udemy.com,https://www.udemy.com/courses/development/no-code-development/
+268,26,Business,Entrepreneurship,/courses/business/entrepreneurship/,https://www.udemy.com,https://www.udemy.com/courses/business/entrepreneurship/
+268,28,Business,Communication,/courses/business/communications/,https://www.udemy.com,https://www.udemy.com/courses/business/communications/
+268,30,Business,Management,/courses/business/management/,https://www.udemy.com,https://www.udemy.com/courses/business/management/
+268,32,Business,Sales,/courses/business/sales/,https://www.udemy.com,https://www.udemy.com/courses/business/sales/
+268,34,Business,Business Strategy,/courses/business/strategy/,https://www.udemy.com,https://www.udemy.com/courses/business/strategy/
+268,36,Business,Operations,/courses/business/operations/,https://www.udemy.com,https://www.udemy.com/courses/business/operations/
+268,38,Business,Project Management,/courses/business/project-management/,https://www.udemy.com,https://www.udemy.com/courses/business/project-management/
+268,40,Business,Business Law,/courses/business/business-law/,https://www.udemy.com,https://www.udemy.com/courses/business/business-law/
+268,44,Business,Business Analytics & Intelligence,/courses/business/analytics-and-intelligence/,https://www.udemy.com,https://www.udemy.com/courses/business/analytics-and-intelligence/
+268,48,Business,Human Resources,/courses/business/human-resources/,https://www.udemy.com,https://www.udemy.com/courses/business/human-resources/
+268,50,Business,Industry,/courses/business/industry/,https://www.udemy.com,https://www.udemy.com/courses/business/industry/
+268,354,Business,E-Commerce,/courses/business/e-commerce/,https://www.udemy.com,https://www.udemy.com/courses/business/e-commerce/
+268,52,Business,Media,/courses/business/media/,https://www.udemy.com,https://www.udemy.com/courses/business/media/
+268,58,Business,Real Estate,/courses/business/real-estate/,https://www.udemy.com,https://www.udemy.com/courses/business/real-estate/
+268,60,Business,Other Business,/courses/business/other-business/,https://www.udemy.com,https://www.udemy.com/courses/business/other-business/
+328,530,Finance & Accounting,Accounting & Bookkeeping,/courses/finance-and-accounting/accounting-bookkeeping/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/accounting-bookkeeping/
+328,532,Finance & Accounting,Compliance,/courses/finance-and-accounting/compliance/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/compliance/
+328,534,Finance & Accounting,Cryptocurrency & Blockchain,/courses/finance-and-accounting/cryptocurrency-and-blockchain/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/cryptocurrency-and-blockchain/
+328,536,Finance & Accounting,Economics,/courses/finance-and-accounting/economics/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/economics/
+328,540,Finance & Accounting,Finance,/courses/finance-and-accounting/finance-management/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/finance-management/
+328,542,Finance & Accounting,Finance Cert & Exam Prep,/courses/finance-and-accounting/finance-certification-and-exam-prep/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/finance-certification-and-exam-prep/
+328,544,Finance & Accounting,Financial Modeling & Analysis,/courses/finance-and-accounting/financial-modeling-and-analysis/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/financial-modeling-and-analysis/
+328,546,Finance & Accounting,Investing & Trading,/courses/finance-and-accounting/investing-and-trading/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/investing-and-trading/
+328,548,Finance & Accounting,Money Management Tools,/courses/finance-and-accounting/money-management-tools/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/money-management-tools/
+328,550,Finance & Accounting,Taxes,/courses/finance-and-accounting/taxes/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/taxes/
+328,552,Finance & Accounting,Other Finance & Accounting,/courses/finance-and-accounting/other-finance-and-accounting/,https://www.udemy.com,https://www.udemy.com/courses/finance-and-accounting/other-finance-and-accounting/
+294,132,IT & Software,IT Certifications,/courses/it-and-software/it-certification/,https://www.udemy.com,https://www.udemy.com/courses/it-and-software/it-certification/
+294,134,IT & Software,Network & Security,/courses/it-and-software/network-and-security/,https://www.udemy.com,https://www.udemy.com/courses/it-and-software/network-and-security/
+294,136,IT & Software,Hardware,/courses/it-and-software/hardware/,https://www.udemy.com,https://www.udemy.com/courses/it-and-software/hardware/
+294,138,IT & Software,Operating Systems & Servers,/courses/it-and-software/operating-systems/,https://www.udemy.com,https://www.udemy.com/courses/it-and-software/operating-systems/
+294,140,IT & Software,Other IT & Software,/courses/it-and-software/other-it-and-software/,https://www.udemy.com,https://www.udemy.com/courses/it-and-software/other-it-and-software/
+292,96,Office Productivity,Microsoft,/courses/office-productivity/microsoft/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/microsoft/
+292,98,Office Productivity,Apple,/courses/office-productivity/apple/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/apple/
+292,100,Office Productivity,Google,/courses/office-productivity/google/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/google/
+292,102,Office Productivity,SAP,/courses/office-productivity/sap/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/sap/
+292,106,Office Productivity,Oracle,/courses/office-productivity/oracle/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/oracle/
+292,108,Office Productivity,Other Office Productivity,/courses/office-productivity/other-productivity/,https://www.udemy.com,https://www.udemy.com/courses/office-productivity/other-productivity/
+296,142,Personal Development,Personal Transformation,/courses/personal-development/personal-transformation/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/personal-transformation/
+296,144,Personal Development,Personal Productivity,/courses/personal-development/productivity/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/productivity/
+296,146,Personal Development,Leadership,/courses/personal-development/leadership/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/leadership/
+296,150,Personal Development,Career Development,/courses/personal-development/career-development/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/career-development/
+296,152,Personal Development,Parenting & Relationships,/courses/personal-development/parenting-and-relationships/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/parenting-and-relationships/
+296,156,Personal Development,Happiness,/courses/personal-development/happiness/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/happiness/
+296,577,Personal Development,Esoteric Practices,/courses/lifestyle/esoteric-practices/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/esoteric-practices/
+296,158,Personal Development,Religion & Spirituality,/courses/personal-development/religion-and-spirituality/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/religion-and-spirituality/
+296,160,Personal Development,Personal Brand Building,/courses/personal-development/personal-brand-building/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/personal-brand-building/
+296,164,Personal Development,Creativity,/courses/personal-development/creativity/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/creativity/
+296,166,Personal Development,Influence,/courses/personal-development/influence/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/influence/
+296,168,Personal Development,Self Esteem & Confidence,/courses/personal-development/self-esteem-and-confidence/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/self-esteem-and-confidence/
+296,170,Personal Development,Stress Management,/courses/personal-development/stress-management/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/stress-management/
+296,172,Personal Development,Memory & Study Skills,/courses/personal-development/memory/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/memory/
+296,176,Personal Development,Motivation,/courses/personal-development/motivation/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/motivation/
+296,178,Personal Development,Other Personal Development,/courses/personal-development/other-personal-development/,https://www.udemy.com,https://www.udemy.com/courses/personal-development/other-personal-development/
+269,6,Design,Web Design,/courses/design/web-design/,https://www.udemy.com,https://www.udemy.com/courses/design/web-design/
+269,110,Design,Graphic Design & Illustration,/courses/design/graphic-design-and-illustration/,https://www.udemy.com,https://www.udemy.com/courses/design/graphic-design-and-illustration/
+269,112,Design,Design Tools,/courses/design/design-tools/,https://www.udemy.com,https://www.udemy.com/courses/design/design-tools/
+269,114,Design,User Experience Design,/courses/design/user-experience/,https://www.udemy.com,https://www.udemy.com/courses/design/user-experience/
+269,116,Design,Game Design,/courses/design/game-design/,https://www.udemy.com,https://www.udemy.com/courses/design/game-design/
+269,120,Design,3D & Animation,/courses/design/3d-and-animation/,https://www.udemy.com,https://www.udemy.com/courses/design/3d-and-animation/
+269,122,Design,Fashion Design,/courses/design/fashion/,https://www.udemy.com,https://www.udemy.com/courses/design/fashion/
+269,124,Design,Architectural Design,/courses/design/architectural-design/,https://www.udemy.com,https://www.udemy.com/courses/design/architectural-design/
+269,128,Design,Interior Design,/courses/design/interior-design/,https://www.udemy.com,https://www.udemy.com/courses/design/interior-design/
+269,130,Design,Other Design,/courses/design/other-design/,https://www.udemy.com,https://www.udemy.com/courses/design/other-design/
+290,62,Marketing,Digital Marketing,/courses/marketing/digital-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/digital-marketing/
+290,64,Marketing,Search Engine Optimization,/courses/marketing/search-engine-optimization/,https://www.udemy.com,https://www.udemy.com/courses/marketing/search-engine-optimization/
+290,66,Marketing,Social Media Marketing,/courses/marketing/social-media-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/social-media-marketing/
+290,68,Marketing,Branding,/courses/marketing/branding/,https://www.udemy.com,https://www.udemy.com/courses/marketing/branding/
+290,70,Marketing,Marketing Fundamentals,/courses/marketing/marketing-fundamentals/,https://www.udemy.com,https://www.udemy.com/courses/marketing/marketing-fundamentals/
+290,72,Marketing,Marketing Analytics & Automation,/courses/marketing/analytics-and-automation/,https://www.udemy.com,https://www.udemy.com/courses/marketing/analytics-and-automation/
+290,74,Marketing,Public Relations,/courses/marketing/public-relations/,https://www.udemy.com,https://www.udemy.com/courses/marketing/public-relations/
+290,76,Marketing,Paid Advertising,/courses/marketing/advertising/,https://www.udemy.com,https://www.udemy.com/courses/marketing/advertising/
+290,78,Marketing,Video & Mobile Marketing,/courses/marketing/video-and-mobile-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/video-and-mobile-marketing/
+290,80,Marketing,Content Marketing,/courses/marketing/content-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/content-marketing/
+290,86,Marketing,Growth Hacking,/courses/marketing/growth-hacking/,https://www.udemy.com,https://www.udemy.com/courses/marketing/growth-hacking/
+290,88,Marketing,Affiliate Marketing,/courses/marketing/affiliate-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/affiliate-marketing/
+290,90,Marketing,Product Marketing,/courses/marketing/product-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/product-marketing/
+290,94,Marketing,Other Marketing,/courses/marketing/other-marketing/,https://www.udemy.com,https://www.udemy.com/courses/marketing/other-marketing/
+274,180,Lifestyle,Arts & Crafts,/courses/lifestyle/arts-and-crafts/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/arts-and-crafts/
+274,184,Lifestyle,Beauty & Makeup,/courses/lifestyle/beauty-and-makeup/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/beauty-and-makeup/
+274,577,Lifestyle,Esoteric Practices,/courses/lifestyle/esoteric-practices/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/esoteric-practices/
+274,182,Lifestyle,Food & Beverage,/courses/lifestyle/food-and-beverage/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/food-and-beverage/
+274,188,Lifestyle,Gaming,/courses/lifestyle/gaming/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/gaming/
+274,190,Lifestyle,Home Improvement & Gardening,/courses/lifestyle/home-improvement/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/home-improvement/
+274,192,Lifestyle,Pet Care & Training,/courses/lifestyle/pet-care-and-training/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/pet-care-and-training/
+274,186,Lifestyle,Travel,/courses/lifestyle/travel/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/travel/
+274,194,Lifestyle,Other Lifestyle,/courses/lifestyle/other-lifestyle/,https://www.udemy.com,https://www.udemy.com/courses/lifestyle/other-lifestyle/
+273,370,Photography & Video,Digital Photography,/courses/photography-and-video/digital-photography/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/digital-photography/
+273,196,Photography & Video,Photography,/courses/photography-and-video/photography-fundamentals/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/photography-fundamentals/
+273,204,Photography & Video,Portrait Photography,/courses/photography-and-video/portraits/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/portraits/
+273,198,Photography & Video,Photography Tools,/courses/photography-and-video/photography-tools/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/photography-tools/
+273,208,Photography & Video,Commercial Photography,/courses/photography-and-video/commercial-photography/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/commercial-photography/
+273,218,Photography & Video,Video Design,/courses/photography-and-video/video-design/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/video-design/
+273,220,Photography & Video,Other Photography & Video,/courses/photography-and-video/other-photography-and-video/,https://www.udemy.com,https://www.udemy.com/courses/photography-and-video/other-photography-and-video/
+276,222,Health & Fitness,Fitness,/courses/health-and-fitness/fitness/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/fitness/
+276,224,Health & Fitness,General Health,/courses/health-and-fitness/general-health/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/general-health/
+276,226,Health & Fitness,Sports,/courses/health-and-fitness/sports/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/sports/
+276,228,Health & Fitness,Nutrition & Diet,/courses/health-and-fitness/nutrition/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/nutrition/
+276,230,Health & Fitness,Yoga,/courses/health-and-fitness/yoga/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/yoga/
+276,232,Health & Fitness,Mental Health,/courses/health-and-fitness/mental-health/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/mental-health/
+276,236,Health & Fitness,Martial Arts & Self Defense,/courses/health-and-fitness/self-defense/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/self-defense/
+276,238,Health & Fitness,Safety & First Aid,/courses/health-and-fitness/safety-and-first-aid/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/safety-and-first-aid/
+276,240,Health & Fitness,Dance,/courses/health-and-fitness/dance/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/dance/
+276,242,Health & Fitness,Meditation,/courses/health-and-fitness/meditation/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/meditation/
+276,244,Health & Fitness,Other Health & Fitness,/courses/health-and-fitness/other-health-and-fitness/,https://www.udemy.com,https://www.udemy.com/courses/health-and-fitness/other-health-and-fitness/
+278,296,Music,Instruments,/courses/music/instruments/,https://www.udemy.com,https://www.udemy.com/courses/music/instruments/
+278,298,Music,Music Production,/courses/music/production/,https://www.udemy.com,https://www.udemy.com/courses/music/production/
+278,300,Music,Music Fundamentals,/courses/music/music-fundamentals/,https://www.udemy.com,https://www.udemy.com/courses/music/music-fundamentals/
+278,302,Music,Vocal,/courses/music/vocal/,https://www.udemy.com,https://www.udemy.com/courses/music/vocal/
+278,304,Music,Music Techniques,/courses/music/music-techniques/,https://www.udemy.com,https://www.udemy.com/courses/music/music-techniques/
+278,306,Music,Music Software,/courses/music/music-software/,https://www.udemy.com,https://www.udemy.com/courses/music/music-software/
+278,308,Music,Other Music,/courses/music/other-music/,https://www.udemy.com,https://www.udemy.com/courses/music/other-music/
+300,366,Teaching & Academics,Engineering,/courses/teaching-and-academics/engineering/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/engineering/
+300,380,Teaching & Academics,Humanities,/courses/teaching-and-academics/humanities/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/humanities/
+300,310,Teaching & Academics,Math,/courses/teaching-and-academics/math/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/math/
+300,312,Teaching & Academics,Science,/courses/teaching-and-academics/science/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/science/
+300,523,Teaching & Academics,Online Education,/courses/teaching-and-academics/online-education/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/online-education/
+300,376,Teaching & Academics,Social Science,/courses/teaching-and-academics/social-science/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/social-science/
+300,521,Teaching & Academics,Language Learning,/courses/teaching-and-academics/language/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/language/
+300,527,Teaching & Academics,Teacher Training,/courses/teaching-and-academics/teacher-training/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/teacher-training/
+300,529,Teaching & Academics,Test Prep,/courses/teaching-and-academics/test-prep/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/test-prep/
+300,525,Teaching & Academics,Other Teaching & Academics,/courses/teaching-and-academics/other-teaching-academics/,https://www.udemy.com,https://www.udemy.com/courses/teaching-and-academics/other-teaching-academics/
